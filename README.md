@@ -2,7 +2,7 @@
 I am doing internship at apex planet in web development 
 
 
-html ````
+html````
 
 !DOCTYPE html>
 <html lang="en">
